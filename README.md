@@ -57,8 +57,7 @@ No es necesario que agregues archivos adicionales al proyecto. Todo lo que se pi
 
 ### Pruebas
 
-El archivo `.REST` no debe modificarse, ya que contiene las requests para probar la API. Podés probar la API con la extensión de VSCode REST Client haciendo uso de este archivo, o bien podés usar Postman o cualquier otra herramienta que te resulte cómoda. Es importante que, sin importar la herramienta que uses, **pruebes la API**
-utilizando las requests que se encuentran en el archivo `.REST` para asegurarte de que la API funciona correctamente y en el formato que se espera.
+Podés probar la API desde Isomnia. Es importante que, sin importar la herramienta que uses, **pruebes la API**, y guardes las pruebas que hagas.
 
 ### Base de datos
 
