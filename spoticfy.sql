@@ -56,7 +56,7 @@ INSERT INTO artistas (id, nombre) VALUES
 (4, 'Nacho'),
 (5, 'Daro'),
 (6, 'Ranzo'),
-(7, 'Lean');
+(7, 'Lean'),
 (8, 'Shuli');
 
 -- --------------------------------------------------------
@@ -88,7 +88,7 @@ INSERT INTO canciones (id, nombre, album, duracion, reproducciones) VALUES
 (8, 'Sos el WHERE de mi SELECT', 3, 115, 800),
 (9, 'El WIFI de mi ESP', 8, 155, 1000),
 (10, 'Mi chain de bloque', 9, 165, 6500),
-(11, 'Necesito branchearme de vos', 10, 210, 100);
+(11, 'Necesito branchearme de vos', 10, 210, 100),
 (12, 'Nos sigue crasheando abajo', 10, 185, 150);
 
 --
